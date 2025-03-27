@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "node-opcua": "^2.140.0",
+    "node-opcua-file-transfer": "^2.140.0",
+    "pngjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  }
+}
